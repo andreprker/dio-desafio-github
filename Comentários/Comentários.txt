@@ -1,2 +1,3 @@
 git add . "inclui os itens no git local"
 git commit -m "envia para o arquivo web"
+git status "verifica como está as modificações do arquivo"
