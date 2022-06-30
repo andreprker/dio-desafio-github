@@ -1,0 +1,2 @@
+git add . "inclui os itens no git local"
+git commit -m "envia para o arquivo web"
